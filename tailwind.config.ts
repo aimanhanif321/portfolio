@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+import "./globals.css";
 
 const config: Config = {
   content: [

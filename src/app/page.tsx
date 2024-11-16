@@ -9,6 +9,8 @@ import Skills from "@/Components/Skills/page";
 import Project from "@/Components/Project/page";
 import Contact from "@/Components/Contact/page";
 import Footer from "@/Components/Footer/page";
+import "./globals.css";
+import type { Config } from "tailwindcss";
 
 import 'aos/dist/aos.css';
 
