@@ -1,5 +1,4 @@
-// import { Particle } from '@tsparticles/engine';
-// import Particle from "../Particle/page";
+
 import Animation from "../Animation/page";
 import Link from "next/link";
 import React from "react";

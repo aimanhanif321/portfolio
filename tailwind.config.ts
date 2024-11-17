@@ -1,5 +1,4 @@
 import type { Config } from "tailwindcss";
-import "./globals.css";
 
 const config: Config = {
   content: [
@@ -7,6 +6,7 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+
   theme: {
     screens: {
       'sm': '640px',
